@@ -1,0 +1,12 @@
+langchain>=0.3.0
+langgraph>=0.2.0
+langchain-core>=0.3.0
+langchain-groq>=0.2.0
+langgraph-checkpoint-postgres>=2.0.0
+python-dotenv>=1.0.1
+psycopg[binary]>=3.2.0
+tavily-python>=0.5.0
+typing-extensions>=4.12.0
+requests>=2.32.0
+pandas>=2.2.0
+amadeus>=5.0.0
