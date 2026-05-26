@@ -1,0 +1,5 @@
+myenv/
+__pycache__/
+.env
+travel_app.log
+travel_plans/
