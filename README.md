@@ -1,4 +1,4 @@
-# Multi_Agent_RAG_Project_AI_Travel
+# Multi_Agent_Project_AI_Travel
 
 A Multi-Agent AI Travel Planner built using LangGraph, Groq LLM, Tavily Search, AviationStack API, PostgreSQL, and Streamlit.
 
